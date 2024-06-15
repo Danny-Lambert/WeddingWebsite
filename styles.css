@@ -1,0 +1,110 @@
+body {
+    scroll-behavior: smooth;
+    font-family: newFont !important;
+    color:#dd2828 !important;
+}
+.colourRed{
+  color: #fd4848 ;
+}
+.colourEggShell{
+  color: #f5f3e8 ;
+}
+.colourOrange{
+  color: #fd4848;
+}
+.colourMustard{
+  color: #fdb92e ;
+}
+.colourPink{
+  color: #ffa5db ;
+}
+.colourLightPink{
+  color: #ffbfcb ;
+}
+.transparent{
+    background-color: none;
+}
+.textUnderlined{
+  text-decoration: underline;
+}
+/* FIRST OPTION*/
+.textShadow{
+  text-shadow:-3px 6px 4px #e2e2e2;
+}
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+}
+.section1{
+    background-color:#fffce8;
+    /* background-size: cover; */
+
+}
+@font-face {
+  font-family: "newFont";
+  src: url("./fonts/Bright\ DEMO.otf");
+}
+.sevillana-regular {
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .option1MainText{
+    font-size: 4rem;
+  }
+.mainPagePrimaryLeftText{
+  font-size: 3.7rem;
+
+}
+.mainPageSecondaryLeftText{
+  font-size: 3rem;
+
+}
+.option1SecondText{
+  font-size: 2rem;
+}
+
+/* SECOND PAGE */
+.section2{
+  background-color:#ffbfcb;
+}
+.dancing-script {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+
+}
+/* .dateTimeSideTitle{
+font-size: 2rem;
+}  
+.dateTimeSideText{
+  font-size: 2rem;  
+} */
+
+/* THIRD OPTION */
+/* .section3{
+    background-color:#bc9581;
+}
+.section4{
+  background-color:#d7bdaf;
+}
+
+.section5{
+  background-color:#aea49f;
+} */
+
+.section3{
+  background-color:#bc9581;
+}
+.section4{
+background-color:#fd4848;
+}
+
+.section5{
+background-color:#ffbfcb;
+}
+
+
+
