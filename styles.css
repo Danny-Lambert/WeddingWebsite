@@ -67,7 +67,9 @@ body {
 
 /* SECOND PAGE */
 .section2{
-  background-color:#ffbfcb;
+  /* background-color:#ffbfcb; */
+  background-color:#bc9581;
+
 }
 .dancing-script {
     font-family: "Dancing Script", cursive;
@@ -95,11 +97,11 @@ font-size: 2rem;
 } 
 
 #section2{
-  background-color:#bc9581;
-  color:white;
+  background-color:#fdb92e;
+
 }
 #section3{
-  background-color:#fdb92e;
+  background-color:#f3c0a6;
 
 }
 .section3{
