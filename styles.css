@@ -247,9 +247,9 @@ a{
 }
 
 .navbar-nav{
-  background: #f0f0f0c4;
+  background: #f0f0f0fa;
   border-radius: 2%;
   padding: 0.5rem;
-  width: fit-content;
+  width: -webkit-fill-available;
   display: inline-block;
 }
