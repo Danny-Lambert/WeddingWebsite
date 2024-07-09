@@ -114,15 +114,18 @@ font-size: 2rem;
 #section5{
   background-color:#fdb92e;
 }
-
+a{
+  text-decoration: none;
+}
 #weddingFAQ{
-  background: #fffce8;
+  background: #fbffd894;
     border-radius: 3%;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
     /* text-align: center; */
 }
 .qAndA{
-  margin: 1rem 0rem 2rem 0rem
+  margin: 1rem 0rem 2rem 0rem;
+  text-align: center;
 }
 
 
