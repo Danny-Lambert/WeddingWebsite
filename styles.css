@@ -1,6 +1,6 @@
 body {
     scroll-behavior: smooth;
-    font-family: newFont !important;
+    /* font-family: chicle-regular !important; */
 }
 
 .oleo-script-regular {
@@ -8,6 +8,11 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 85%;
+}
+.chicle-regular {
+  font-family: "Chicle", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .widthFitContent{
